@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "348017290579",
+    "firebase_url": "https://drip-monitor-default-rtdb.firebaseio.com",
+    "project_id": "drip-monitor",
+    "storage_bucket": "drip-monitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348017290579:android:bda2bb470e69e864da05a6",
+        "android_client_info": {
+          "package_name": "com.undamped.medicare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348017290579-ll5ploc14mk5fkue12jb0d1pcig90qh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMqwNYKyicdxIc4MFMyN4e9Im-jILlCd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348017290579-ll5ploc14mk5fkue12jb0d1pcig90qh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
